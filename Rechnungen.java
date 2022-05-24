@@ -7,7 +7,7 @@ public class Rechnungen {
 	private int erg;
 
 	public int getZahl1() {
-		return this.zahl1;
+		return this.zahl1
 	}
 
 	public int getZahl2() {
