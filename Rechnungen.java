@@ -55,6 +55,8 @@ public class Rechnungen {
 		}
 		erg = j;
 		return erg;
+		
+		//Addition
 	}
 	public int prod() {
 		int j = 1;
